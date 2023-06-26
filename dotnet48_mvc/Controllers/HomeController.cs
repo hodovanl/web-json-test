@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 using System.Web.Mvc;
 
-namespace dotnetfw_4._8.Controllers
+namespace dotnet48_mvc.Controllers
 {
     public class HomeController : Controller
     {

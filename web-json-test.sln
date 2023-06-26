@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet7-mvc", "dotnet7-mvc\dotnet7-mvc.csproj", "{75CA1D61-8A11-4814-B127-C71B6EEEDC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet7_mvc", "dotnet7_mvc\dotnet7_mvc.csproj", "{75CA1D61-8A11-4814-B127-C71B6EEEDC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet48-mvc", "dotnet48-mvc\dotnet48-mvc.csproj", "{03EF84BE-A972-46AD-B6A6-0E1846555C97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet48_mvc", "dotnet48_mvc\dotnet48_mvc.csproj", "{03EF84BE-A972-46AD-B6A6-0E1846555C97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
